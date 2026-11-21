@@ -93,7 +93,7 @@ const portfolioData = {
       technologies: ["React", "Vite", "Tailwind CSS", "JavaScript"],
       category: "Web Development",
       image: "/images/projects/portfolio.png",
-      github: "https://github.com/randisangaji/randi-portfolio",
+      github: "https://github.com/randisangaji/PROJECT_PORTOFOLIO",
       live: "",
     },
   ],
