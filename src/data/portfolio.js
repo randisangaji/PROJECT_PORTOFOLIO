@@ -12,7 +12,7 @@ const portfolioData = {
   headline: "Aspiring Software Engineer",
   shortIntro:
     "Informatics student at Telkom University passionate about building clean, scalable software and exploring the frontiers of technology.",
-  profileImage: "/images/profile.jpg", // Place your photo in public/images/
+  profileImage: "/images/2.jpeg", // Place your photo in public/images/
 
   /* ── Resume / CV ── */
   resume: {
