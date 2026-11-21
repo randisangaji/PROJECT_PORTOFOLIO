@@ -45,7 +45,7 @@ export default function Navbar() {
           onClick={(e) => { e.preventDefault(); handleNav('#home'); }}
           className="text-xl font-bold tracking-tight"
         >
-          <span className="gradient-text">RANDI</span>
+          <span className="gradient-text">Ever Becoming</span>
           <span className="text-text-secondary">.</span>
         </a>
 
