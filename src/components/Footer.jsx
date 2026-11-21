@@ -10,7 +10,7 @@ export default function Footer() {
         {/* Brand + copyright */}
         <div className="text-center sm:text-left">
           <p className="text-sm font-semibold">
-            <span className="gradient-text">RANDI</span>
+            <span className="gradient-text">Lifelong Learner</span>
             <span className="text-text-secondary">.</span>
           </p>
           <p className="mt-1 text-xs text-text-secondary">
